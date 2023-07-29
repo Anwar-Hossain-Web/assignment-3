@@ -1,0 +1,12 @@
+/* *{ next all type of div can be face problem so it apply first in body
+    margin: 0px;
+    padding: 0px;
+}*/
+body{
+    margin: 0px;
+    padding: 0px;  
+}
+.container{
+    border: 1px solid red;
+    height: 50px;
+}
